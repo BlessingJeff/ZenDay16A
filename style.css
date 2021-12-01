@@ -1,0 +1,110 @@
+body {
+  background-color: #cad2c5;
+  height: 100vh;
+  margin-top: 0%;
+  margin: 0%;
+  overflow: scroll;
+  padding: 0%;
+}
+
+header {
+  background-color: #2f3d46;
+
+  height: 88px;
+  width: full;
+  margin-top: -2%;
+}
+h1 {
+  text-align: center;
+  position: relative;
+  top: -80px;
+  color: #f2f9fb;
+  font-size: larger;
+  font-family: sans-serif;
+}
+.container {
+  background-color: #353535;
+
+  height: 70%;
+  width: 20%;
+  margin: 40px;
+  border-radius: 15px;
+  padding: 0%;
+  display: flex;
+  flex-direction: row;
+}
+
+.container2 {
+  height: 7%;
+  width: 60%;
+  margin: 0px;
+  display: flex;
+  border-radius: 15px;
+  flex-direction: row;
+  position: absolute;
+  right: 5px;
+}
+
+.search {
+  background-color: #353535;
+  border-radius: 10px;
+  width: 75%;
+}
+
+.container3 {
+  background-color: #353535;
+
+  height: 310%;
+  width: 20%;
+  margin: 90px;
+  border-radius: 15px;
+  padding: 0%;
+  padding-left: 5%;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  left: -30%;
+}
+.container4 {
+  background-color: #353535;
+
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  border-radius: 15px;
+  padding: 0%;
+  padding-left: -5%;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  left: 180%;
+}
+
+.container5 {
+  background-color: #353535;
+
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  border-radius: 15px;
+  padding: 0%;
+  padding-left: -5%;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  left: 180%;
+}
+.container6 {
+  background-color: #353535;
+
+  height: 110%;
+  width: 460%;
+  margin: 280px;
+  border-radius: 20px;
+  padding: 0%;
+  padding-left: -5%;
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  left: -460%;
+}
